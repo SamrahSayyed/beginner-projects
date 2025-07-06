@@ -16,7 +16,7 @@ while True:
        continue
 
     if (option == 1):
-      if not names:                        #if nothing is present in the list 'names'
+      if not names:                        #if nothing is present in the list 'names'.
           print("No contacts yet!")
       else:
           print("Your contacts are: ")
