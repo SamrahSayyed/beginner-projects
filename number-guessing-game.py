@@ -44,7 +44,7 @@ def play_game():
 
       if (result == "Correct!"):
          print(f"Hurray! You won the Number Guessing Game. You correctly guessed the secret number {secret_number} in {attempts} attempts!")
-         won = True        #won changes to True after winning
+         won = True        #won changes to True after winning.
          break
       
       else:
