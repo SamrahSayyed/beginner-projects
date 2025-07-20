@@ -23,7 +23,12 @@ Each project focuses on specific Python concepts like data structures, condition
 
 
 
+## Author
+Samrah Sayyed
 
+Third Year Undergraduate
+
+Department of Electrical and Electronics
 
 
 
