@@ -4,7 +4,6 @@ This repository contains simple beginner-level Python projects to help me practi
 
 Each project focuses on specific Python concepts like data structures, conditionals, loops, functions, and file handling.
 
----
 
 ## 🚀 Goals
 
@@ -13,7 +12,7 @@ Each project focuses on specific Python concepts like data structures, condition
 - Understand logic building and user interaction
 - Build a habit of version control and documentation
 
----
+
 
 ## 🛠 Tools & Technologies
 
@@ -21,11 +20,12 @@ Each project focuses on specific Python concepts like data structures, condition
 - Editor: VS Code / Replit / IDLE
 - Version Control: Git & GitHub
 
----
+
 
 ## Feedback
 
-If you have any tips, ideas, or just want to say hi — feel free to connect!
+If you have any tips, ideas, or would like to say hi, feel free to connect!
 
 📫 LinkedIn - [Samrah Sayyed]
+
 🌱 I’m constantly learning and happy to collaborate!
