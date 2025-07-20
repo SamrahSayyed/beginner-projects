@@ -1,11 +1,11 @@
-# 🐍 Beginner Python Projects
+# Beginner Python Projects
 
 This repository contains simple beginner-level Python projects to help me practice programming concepts and build a strong foundation.
 
 Each project focuses on specific Python concepts like data structures, conditionals, loops, functions, and file handling.
 
 
-## 🚀 Goals
+##  Goals
 
 - Strengthen core Python skills
 - Write clean, well-commented code
@@ -14,11 +14,24 @@ Each project focuses on specific Python concepts like data structures, condition
 
 
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 
 - Language: Python 3.x
 - Editor: VS Code / Replit / IDLE
 - Version Control: Git & GitHub
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
